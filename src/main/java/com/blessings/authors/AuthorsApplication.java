@@ -8,7 +8,7 @@ public class AuthorsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AuthorsApplication.class, args);
-		System.out.println("author service");
+		System.out.println("author service!");
 	}
 
 }
